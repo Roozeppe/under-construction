@@ -1,2 +1,2 @@
 # under-construction
-A single web page with an under construction picture on it. Click the link to check it out.
+A single web page displaying an under construction picture. Click the link to check it out.
